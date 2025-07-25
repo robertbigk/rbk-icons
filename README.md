@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://raw.githubusercontent.com/robertbigk/rbk-icons/main/hacs.png" alt="HACS Integracja">
+</div>
+
 # Dodaj swoje niestandardowe ikony do Home Assistant!
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Integracja-41BDF5.svg)](https://github.com/hacs/integration)
