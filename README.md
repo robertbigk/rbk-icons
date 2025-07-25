@@ -11,7 +11,7 @@ Na podstawie niesamowitej pracy z [Custom Brand Icons](https://github.com/elax46
 
 Dzięki temu repozytorium będziesz mógł dodać niestandardowe ikony z własnego zestawu do Home Assistant i używać ich na pulpicie Lovelace:
 
-![Niestandardowe ikony](https://raw.githubusercontent.com/mathoudebine/homeassistant-custom-icons/main/custom-icons.png)
+![Niestandardowe ikony](https://github.com/robertbigk/rbk-icons/blob/main/custom-icons.png)
 
 ## Wymagania wstępne i ograniczenia
 
